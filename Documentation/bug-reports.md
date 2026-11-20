@@ -16,7 +16,7 @@ creation. 3. Attempt to scroll through the creation-options popup.
 options inaccessible.
 **Impact:** Facilitators cannot access the full set of workspace creation tools, limiting the functionality available when creating a workspace.
 **Evidence:** The original report describes this issue in section 3.1 and includes a screenshot on page 8 showing the non-responsive creation tool. The screenshot demonstrates that the authentication strategy and part of the project name are obscured.
-`../images/Aavistus-create-project.png`
+`/images/Aavistus-create-project.png`
 
 ## AV-002 -- 2-D selector cannot be properly resized or edited
 
@@ -38,7 +38,7 @@ edited.
 properly edited.
 **Impact:** An important session feature is unavailable, limiting the facilitator's ability to collect more precise opinions from participants. This reduces the quality of information available when working towards a consensus.
 **Evidence:** The original report describes this issue in section 3.1 and includes a screenshot on page 7 showing the non-functioning 2-D slider.
-`../images/Aavistus-slider.png`
+`/images/Aavistus-slider.png`
 
 ## AV-003 -- Participant options cannot be accessed when inviting participants
 
